@@ -8,5 +8,5 @@ i. in cmd(windows), set cd=target
 ii. command: java -jar <name of the jar created by maven> "video=name of the video" "run.date(date)=date"
   
 Second Method:
-i. create script and add that in demo/demo directory in order to save your time.
+create script and add that in demo/demo directory in order to save your time.
    
